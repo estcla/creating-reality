@@ -1,0 +1,10 @@
+main:
+  - title: About
+    identifier: about
+    url: "#about"
+  - title: Team
+    identifier: team
+    url: "#team"
+  - title: Contact
+    identifier: contact
+    url: "#contact"
